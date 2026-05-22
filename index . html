@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Introduction Page</title>
+</head>
+
+<body>
+
+    <header>
+        <h1>Welcome to My Web Page</h1>
+    </header>
+
+    <h2>Full Name</h2>
+    <p>Shafeh Rogers</p>
+
+    <h2>Program</h2>
+    <p>BBIB</p>
+
+    <h2>Body</h2>
+    <p>
+        Hello everyone. My name is Shafeh Rogers.
+        I am a student of Limkokwing University of Creative Technology Sierra Leone.
+        I am studying BBIB and learning Web Technology.
+        Although I sometimes face challenges while learning, I continue trying my best
+        to improve my skills and gain more knowledge in business and technology.
+        I believe hard work and consistency will help me achieve my goals in the future.
+    </p>
+
+</body>
+</html>
